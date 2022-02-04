@@ -139,11 +139,6 @@ section {
     border-color: #fce138;
 }
 
-.intro h2 {
-    /* add this alongside your other declarations */
-    display: inline-block;
-}
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
