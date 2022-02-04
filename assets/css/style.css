@@ -135,7 +135,13 @@ section {
     color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
-    border-bottom: 3px solid #fce138;
+    border-bottom: 3px solid;
+    border-color: #fce138;
+}
+
+.intro h2 {
+    /* add this alongside your other declarations */
+    display: inline-block;
 }
 
 .intro p {
