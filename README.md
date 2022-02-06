@@ -1,3 +1,14 @@
-# run-buddy
+# Run Buddy
 
-This is the run buddy project, look at me run. Buddy.
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [Kylie Ogg]
