@@ -14,4 +14,3 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Kylie Ogg
 
 ### ©️2019 Run Buddy, Inc
-
